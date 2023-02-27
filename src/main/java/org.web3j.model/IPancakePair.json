@@ -1,0 +1,1 @@
+[{"outputs":[{"name":"","internalType":"address","type":"address"}],"inputs":[],"name":"token0","stateMutability":"view","type":"function"},{"outputs":[{"name":"","internalType":"address","type":"address"}],"inputs":[],"name":"token1","stateMutability":"view","type":"function"}]

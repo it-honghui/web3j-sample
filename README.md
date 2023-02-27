@@ -1,6 +1,6 @@
 # web3j-sample
 
-web3j for java 样例程序 (基于web3j 5.0.0)   
+web3j for java 样例程序 (基于web3j 4.9.5)   
 环境 idea maven  
 运行前提 需要有一个开启RPC或者IPC服务的以太坊节点
 

@@ -22,7 +22,7 @@ public class AccountsTask {
 
   private static final Logger logger = LoggerFactory.getLogger(AccountsTask.class);
   private static final String password = "123456";
-  private static final String accountsPath = "D:\\accountsTest\\";
+  private static final String accountsPath = "/Users/wanghonghui/workspace/accounts/";
 
   public static void main(String[] args) throws Exception {
     try {

@@ -12,12 +12,12 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <slf4j.version>1.7.36</slf4j.version>
         <lombok.version>1.18.24</lombok.version>
-        <web3j.version>5.0.0</web3j.version>
+        <web3j.version>4.9.5</web3j.version>
         <bitcoinj.version>0.16.1</bitcoinj.version>
         <binance.version>1.4.0</binance.version>
         <hutool.version>5.8.5</hutool.version>
         <jackson.version>2.13.3</jackson.version>
-        <web3j-maven-plugin.version>4.8.7</web3j-maven-plugin.version>
+        <web3j-maven-plugin.version>4.9.4</web3j-maven-plugin.version>
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
     </properties>
